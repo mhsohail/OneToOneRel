@@ -1,0 +1,14 @@
+E:\GitHub\OneToOneRel\OneToOneRel\bin\Debug\OneToOneRel.exe.config
+E:\GitHub\OneToOneRel\OneToOneRel\bin\Debug\OneToOneRel.exe
+E:\GitHub\OneToOneRel\OneToOneRel\bin\Debug\OneToOneRel.pdb
+E:\GitHub\OneToOneRel\OneToOneRel\bin\Debug\EntityFramework.dll
+E:\GitHub\OneToOneRel\OneToOneRel\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\OneToOneRel\OneToOneRel\bin\Debug\EntityFramework.xml
+E:\GitHub\OneToOneRel\OneToOneRel\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\OneToOneRel\OneToOneRel\obj\Debug\OneToOneRel.csprojResolveAssemblyReference.cache
+E:\GitHub\OneToOneRel\OneToOneRel\obj\Debug\OneToOneRel.exe
+E:\GitHub\OneToOneRel\OneToOneRel\obj\Debug\OneToOneRel.pdb
+E:\GitHub\OneToOneRel\OneToOneRel\obj\Debug\OneToOneRel.Migrations.init.resources
+E:\GitHub\OneToOneRel\OneToOneRel\obj\Debug\OneToOneRel.csproj.GenerateResource.Cache
+E:\GitHub\OneToOneRel\OneToOneRel\obj\Debug\OneToOneRel.Migrations.AmbhibiousVehicleEntity.resources
+E:\GitHub\OneToOneRel\OneToOneRel\obj\Debug\OneToOneRel.Migrations.ReviewEntity.resources
