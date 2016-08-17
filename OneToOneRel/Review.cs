@@ -6,5 +6,7 @@
         public string Content { get; set; }
         public string EntityName { get; set; }
         public int EntityId { get; set; }
+
+        public virtual TransactionReview TransactionReview { get; set; }
     }
 }

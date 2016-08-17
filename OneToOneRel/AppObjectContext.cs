@@ -13,6 +13,7 @@ namespace OneToOneRel
         public DbSet<Address> Addresses { get; set; }
         public DbSet<AmphibiousVehicle> AmphibiousVehicles { get; set; }
         public DbSet<Review> Reviews { get; set; }
+        public DbSet<Transaction> Transactions { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -22,6 +23,7 @@ namespace OneToOneRel
             modelBuilder.Configurations.Add(new AddressMap());
             modelBuilder.Configurations.Add(new AmphibiousVehicleConfiguration());
             modelBuilder.Configurations.Add(new ReviewConfiguration());
+            modelBuilder.Configurations.Add(new TransactionConfiguration());
         }
     }
 }

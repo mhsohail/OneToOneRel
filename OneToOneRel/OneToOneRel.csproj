@@ -76,8 +76,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Review.cs" />
+    <Compile Include="TransactionReviewConfiguration.cs" />
+    <Compile Include="TransactionConfiguration.cs" />
     <Compile Include="ReviewConfiguration.cs" />
     <Compile Include="ReviewManager.cs" />
+    <Compile Include="Transaction.cs" />
+    <Compile Include="TransactionReview.cs" />
     <Compile Include="Vehicle.cs" />
   </ItemGroup>
   <ItemGroup>
